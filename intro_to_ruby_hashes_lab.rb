@@ -1,4 +1,5 @@
-=begin def new_hash {
+ def new_hash {
+   Hash[[key =>|, value]* 
   return new_hash }
 end
  
