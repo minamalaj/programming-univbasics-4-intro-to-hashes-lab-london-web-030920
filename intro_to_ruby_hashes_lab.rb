@@ -1,6 +1,7 @@
  def new_hash 
    hash = {:key => "value"}
 end
+new_hash
  
 def my_hash 
   valid_hash = {:food => "lasagna"}
