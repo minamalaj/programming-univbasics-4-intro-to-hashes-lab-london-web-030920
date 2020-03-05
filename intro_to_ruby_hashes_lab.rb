@@ -1,5 +1,5 @@
  def new_hash {
-   Hash[key =>, value] 
+   Hash[key => value] 
  }
 new_hash 
 end
