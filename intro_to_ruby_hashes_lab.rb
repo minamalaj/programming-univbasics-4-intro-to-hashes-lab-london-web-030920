@@ -1,6 +1,6 @@
  def new_hash {
-   Hash[[key =>|, value]* 
-  return new_hash }
+   Hash[[key =>|, value]*] 
+ }
 end
  
 
