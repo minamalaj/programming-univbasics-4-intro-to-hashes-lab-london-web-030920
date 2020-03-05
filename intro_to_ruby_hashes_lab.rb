@@ -1,4 +1,5 @@
- def new_hash = {key => value}
+ def new_hash 
+   {= {key => value}
 end
  
 def my_hash { 
