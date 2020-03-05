@@ -7,13 +7,12 @@ def my_hash
   valid_hash = {:food => "lasagna"}
 end 
 
-
 def pioneer
   other_hash = {:name => 'Grace Hopper'} 
 end
 
 def id_generator
-  # return a hash with a key :id assigned to positive integer
+ hash = {:id => 15} 
 end
 
 def my_hash_creator(key, value)
