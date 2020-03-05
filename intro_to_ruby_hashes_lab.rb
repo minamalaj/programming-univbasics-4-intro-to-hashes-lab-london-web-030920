@@ -9,7 +9,7 @@ def my_hash {
   } 
   # return a valid hash with any key/value pair of your choice
 end 
-my_hash 
+
 
 def pioneer { 
   :name => 'Grace Hopper'
