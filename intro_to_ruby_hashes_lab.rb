@@ -1,7 +1,7 @@
 =begin def new_hash {
   return new_hash }
 end
-=end 
+ 
 
 def my_hash { 
  :name => "Mina" } 
